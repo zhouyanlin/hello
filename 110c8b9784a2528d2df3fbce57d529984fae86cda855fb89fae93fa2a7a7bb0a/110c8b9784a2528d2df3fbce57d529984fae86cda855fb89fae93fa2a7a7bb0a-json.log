@@ -1,0 +1,8 @@
+{"log":"\u001b]0;root@110c8b9784a2: /\u0007root@110c8b9784a2:/# \n","stream":"stdout","time":"2016-01-22T13:11:43.202845542Z"}
+{"log":"\u001b]0;root@110c8b9784a2: /\u0007root@110c8b9784a2:/# \n","stream":"stdout","time":"2016-01-22T13:11:43.344187837Z"}
+{"log":"\u001b]0;root@110c8b9784a2: /\u0007root@110c8b9784a2:/# \n","stream":"stdout","time":"2016-01-22T13:11:43.485246775Z"}
+{"log":"\u001b]0;root@110c8b9784a2: /\u0007root@110c8b9784a2:/# gi\u0008 \u0008\u0008 \u0008\u0007\u0007ls\n","stream":"stdout","time":"2016-01-22T13:11:47.277359071Z"}
+{"log":"\u001b[0m\u001b[01;34mbin\u001b[0m   \u001b[01;34mdev\u001b[0m  \u001b[01;34mhome\u001b[0m  \u001b[01;34mlib64\u001b[0m  \u001b[01;34mmnt\u001b[0m  \u001b[01;34mproc\u001b[0m  \u001b[01;34mrun\u001b[0m   \u001b[01;34msrv\u001b[0m  \u001b[30;42mtmp\u001b[0m  \u001b[01;34mvar\u001b[0m\n","stream":"stdout","time":"2016-01-22T13:11:47.365641677Z"}
+{"log":"\u001b[01;34mboot\u001b[0m  \u001b[01;34metc\u001b[0m  \u001b[01;34mlib\u001b[0m   \u001b[01;34mmedia\u001b[0m  \u001b[01;34mopt\u001b[0m  \u001b[01;34mroot\u001b[0m  \u001b[01;34msbin\u001b[0m  \u001b[01;34msys\u001b[0m  \u001b[01;34musr\u001b[0m\n","stream":"stdout","time":"2016-01-22T13:11:47.365732676Z"}
+{"log":"\u001b]0;root@110c8b9784a2: /\u0007root@110c8b9784a2:/# exit\n","stream":"stdout","time":"2016-01-22T13:11:50.261696839Z"}
+{"log":"exit\n","stream":"stdout","time":"2016-01-22T13:11:50.261771924Z"}
